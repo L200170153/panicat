@@ -5,4 +5,4 @@ ModuleName=script
 
 [script]
 ImageDir=/usr/share/plymouth/themes/panicat
-ScriptFile=/usr/share/plymouth/themes/PlymouthTheme-Cat/panicat.script
+ScriptFile=/usr/share/plymouth/themes/panicat/panicat.script
